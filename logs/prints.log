@@ -1,0 +1,5 @@
+06:50:07.725 [main] INFO  resources3.base - Restricted user
+06:50:07.829 [main] INFO  resources3.base - homepage driver started for user
+06:50:07.829 [main] INFO  resources3.base - logged into the link chrome for user
+06:50:07.829 [main] INFO  resources3.base - logged into the navigated link rahulshetty for user
+06:50:07.829 [main] INFO  resources3.base - sucessfully injected the id and pass for user
