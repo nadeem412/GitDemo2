@@ -37,6 +37,10 @@ public class Homepage extends base{
 	Assert.assertTrue(l.getnavigation().isDisplayed());
 				Assert.assertEquals(l.getcheck().getText(), "Learn & Shine");
 				
+				System.out.println("I am here");
+				System.out.println("Where are they");
+				
+				
 				//Assert.assertEquals(0, 0)
 		
 		
